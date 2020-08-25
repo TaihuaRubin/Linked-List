@@ -76,3 +76,8 @@ class LinkedList {
     return null
   }
 }
+
+module.exports = {
+  Node,
+  LinkedList
+}
